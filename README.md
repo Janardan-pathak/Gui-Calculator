@@ -8,12 +8,12 @@ A sleek and user-friendly GUI-based calculator built with **Python** and **Tkint
 
 ### Main Interface
 
-![Calculator Screenshot](./1.png)
+![Calculator Screenshot](./Images/1.png)
 
 ### Performing Operations
 
-![Calculator in Action](./2.png)
-![Calculator in Action](./3.png)
+![Calculator in Action](./Images/2.png)
+![Calculator in Action](./Images/3.png)
 
 ---
 
