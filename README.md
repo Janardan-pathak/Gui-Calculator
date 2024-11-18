@@ -39,19 +39,17 @@ A sleek and user-friendly GUI-based calculator built with **Python** and **Tkint
 
 ## 🚀 Usage
 
-<!--- TODO: add repo link here  -->
-
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/ss/gui-calculator.git
+   git clone https://github.com/Janardan-pathak/Gui-Calculator.git
 
    ```
 
 2. Navigate to the project folder:
 
    ```bash
-   cd gui-calculator
+   cd Gui-Calculator/bin
 
    ```
 
